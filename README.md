@@ -1,4 +1,4 @@
-# Retail Sales Prediction System
+# Retail Sales Forcecast
 
 Machine Learning web application for predicting retail sales using Linear Regression and Streamlit.
 
